@@ -16,7 +16,7 @@ namespace Trippväktaren
   {
     public static DiscordSocketClient Client;
 
-    public const string ClientToken = "NzQ4NTYzMDc0MDAwMjI0NDQ3.X0fPsA.jSwKfsaJa8NUBdO5smc8bz3gmtk";
+    public const string ClientToken = "";
 
     private static void Main(string[] args)
     {
